@@ -1,1 +1,1 @@
-# ai-note-summarizer
+cd ai-note-summarizer
